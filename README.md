@@ -1,4 +1,4 @@
-An AI-powered agentic coding tutor built with Spring Boot that analyzes code, identifies bugs, and provides personalized explanations and improvement tips.
+An AI-powered agentic coding tutor  that analyzes code, identifies bugs, and provides personalized explanations and improvement tips.
 
 This project integrates with the OpenAI API to give beginner-friendly, structured feedback on code submissions.
 
